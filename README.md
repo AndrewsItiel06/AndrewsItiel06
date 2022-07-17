@@ -4,7 +4,7 @@
 
 Hi, I’m Andrews!<img src="https://user-images.githubusercontent.com/86017907/179375279-cffcf0ca-648a-4095-b9f4-df433afb188c.gif" width="25" alt="Waving Hand"/> Dev front-end focused on web development. I’m always ready to share what I know and learn a little more.
 
-<img src="https://www.ignboards.com/proxy.php?image=https%3A%2F%2Fi.imgur.com%2FX2mgz1R.gif&hash=4e9b3104256f78ddd0b6109373460647" width="450" align="right"/>
+<img src="https://www.ignboards.com/proxy.php?image=https%3A%2F%2Fi.imgur.com%2FX2mgz1R.gif&hash=4e9b3104256f78ddd0b6109373460647" width="400" align="right"/>
 
 ### My Stack:
 - *HTML5* <img src="https://skillicons.dev/icons?i=html" align="center" width="20"/>
