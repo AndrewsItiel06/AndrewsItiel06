@@ -13,7 +13,7 @@ Hi, I’m Andrews!<img src="https://user-images.githubusercontent.com/86017907/1
 - *JavaScript* <img src="https://skillicons.dev/icons?i=js" align="center" width="20"/>
 
  #### Currently studying:
-- *NodeJS* <img src="https://skillicons.dev/icons?i=nodejs" align="center" width="20"/>
+  - *NodeJS* <img src="https://skillicons.dev/icons?i=nodejs" align="center" width="20"/>
 
 # 
 <p align="center"> <a href="mailto:andrewscarvalho2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
