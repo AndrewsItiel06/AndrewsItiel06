@@ -1,20 +1,15 @@
 
 <h1 align="center">Welcome! <img src="https://user-images.githubusercontent.com/86017907/179375356-1097f8a7-8007-4d1a-80d9-c2a5f439e522.gif" width="45" alt="Smiling face emoji"/></h1>
 
-<img src="https://www.ignboards.com/proxy.php?image=https%3A%2F%2Fi.imgur.com%2FX2mgz1R.gif&hash=4e9b3104256f78ddd0b6109373460647" width="500" align="right"/>
+<img src="https://www.ignboards.com/proxy.php?image=https%3A%2F%2Fi.imgur.com%2FX2mgz1R.gif&hash=4e9b3104256f78ddd0b6109373460647" width="550" align="right"/>
 
 Hi, I’m Andrews!<img src="https://user-images.githubusercontent.com/86017907/179375279-cffcf0ca-648a-4095-b9f4-df433afb188c.gif" width="25" alt="Waving Hand"/> Dev front-end focused on web development. I’m always ready to share what I know and learn a little more.
 
 ### My Stack:
-
-  - *HTML5* <img src="https://skillicons.dev/icons?i=html" align="center" width="20"/> 
-  
-  - *CSS3* <img src="https://skillicons.dev/icons?i=css" align="center" width="20"/>
-  
-  - *JavaScript* <img src="https://skillicons.dev/icons?i=js" align="center" width="20"/>
+<img src="https://skillicons.dev/icons?i=html"/> <img src="https://skillicons.dev/icons?i=css"/> <img src="https://skillicons.dev/icons?i=js"/>
  
  ### Currently studying:
-  - *NodeJS* <img src="https://skillicons.dev/icons?i=nodejs" align="center" width="20"/>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
 
 ## Contact
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrewscarvalho2001@gmail.com)
