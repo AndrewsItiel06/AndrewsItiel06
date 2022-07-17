@@ -11,6 +11,6 @@ Hi, I’m Andrews!<img src="https://user-images.githubusercontent.com/86017907/1
  ### Currently studying:
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 
-## Contact
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrewscarvalho2001@gmail.com)
-<a href="https://www.linkedin.com/in/andrewsitiel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<p align="center"> <a href="mailto:andrewscarvalho2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/andrewsitiel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
