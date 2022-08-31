@@ -14,9 +14,7 @@ Hi, I’m Andrews!<img src="https://user-images.githubusercontent.com/86017907/1
   
   #### Also know:
    <img src="https://skillicons.dev/icons?i=nodejs" align="center" width="20"/> *NodeJS* | <img src="https://skillicons.dev/icons?i=sqlite" align="center" width="20"/> *SQLite*  | <img src="https://skillicons.dev/icons?i=express" align="center" width="20"/> *Express* 
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewsitiel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-   
+     
 # 
 <p align="center"> <a href="mailto:andrewscarvalho2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 <a href="https://www.linkedin.com/in/andrewsitiel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
