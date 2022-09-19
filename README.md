@@ -9,7 +9,7 @@ Hi, I’m Andrews!<img src="https://user-images.githubusercontent.com/86017907/1
 | <img src="https://skillicons.dev/icons?i=js" align="center" width="20"/> *JavaScript* 
 
   #### Currently studying:
-   <img src="https://skillicons.dev/icons?i=react" align="center" width="20"/> *ReactJS*  | <img src="https://skillicons.dev/icons?i=styledcomponents" align="center" width="20"/> *Styled Components* 
+   <img src="https://skillicons.dev/icons?i=react" align="center" width="20"/> *ReactJS*  | <img src="https://skillicons.dev/icons?i=styledcomponents" align="center" width="20"/> *Styled Components* | <img src="https://skillicons.dev/icons?i=typescript" align="center" width="20"/> *TypeScript* 
   
   #### Also know:
    <img src="https://skillicons.dev/icons?i=nodejs" align="center" width="20"/> *NodeJS* | <img src="https://skillicons.dev/icons?i=sqlite" align="center" width="20"/> *SQLite*  | <img src="https://skillicons.dev/icons?i=express" align="center" width="20"/> *Express* 
