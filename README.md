@@ -5,10 +5,10 @@
 Hi, I’m Andrews!<img src="https://user-images.githubusercontent.com/86017907/179375279-cffcf0ca-648a-4095-b9f4-df433afb188c.gif" width="25" alt="Waving Hand"/> Web Developer focused in front-end techs. I’m always ready to share what I know and learn a little more.
 
 ### My Stack:
-   <img src="https://skillicons.dev/icons?i=react" align="center" width="20"/> *ReactJS*  | <img src="https://skillicons.dev/icons?i=styledcomponents" align="center" width="20"/> *Styled Components*
+   <img src="https://skillicons.dev/icons?i=react" align="center" width="20" /> *ReactJS*  | <img src="https://skillicons.dev/icons?i=styledcomponents" align="center" width="20" /> *Styled Components* | <img src="https://skillicons.dev/icons?i=tailwind" align="center" width="20" /> *Tailwind*
 
   #### Currently studying:
-<img src="https://skillicons.dev/icons?i=typescript" align="center" width="20"/> *TypeScript* | <img src="https://skillicons.dev/icons?i=tailwind" align="center" width="20"/> *Tailwind*
+<img src="https://skillicons.dev/icons?i=typescript" align="center" width="20"/> *TypeScript* | <img src="https://skillicons.dev/icons?i=jest" align="center" width="20"/> *Jest*
   
   #### Also know:
    <img src="https://skillicons.dev/icons?i=nodejs" align="center" width="20"/> *NodeJS* | <img src="https://skillicons.dev/icons?i=sqlite" align="center" width="20"/> *SQLite*  | <img src="https://skillicons.dev/icons?i=express" align="center" width="20"/> *Express* 
